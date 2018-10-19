@@ -1,0 +1,19 @@
+.tablas
+{
+	width: 80%;				
+	background-color: #E9EBEE;				
+	padding-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.filas
+{
+	border:white 3px solid;
+}
+
+.fondo
+{
+	background-color:#878787;
+	border:white 3px solid;
+}

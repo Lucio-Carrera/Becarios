@@ -1,0 +1,21 @@
+.tab-consulta
+{
+	margin-top: 10px;
+	width:60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.titulo
+{
+	background-color:#878787;
+	font-weight: bold;
+	border:white 3px solid;
+	width: 300px;
+}
+
+.filas
+{
+	border:white 3px solid;
+	text-align: center;
+}
